@@ -1,0 +1,8 @@
+body{
+    background-image: url('cartoon.jpg');
+    background-repeat: no-repeat;
+}
+h1, h4, button{
+    margin: 0;
+    background-color: aqua;
+}
